@@ -1,6 +1,11 @@
 # world.execute (me) ; by Mili Presented in HTML
 ## Website DEMO：
 https://world.execute.umstudio.top/
+### jjnnnh Mirror:
+- https://world-execute.html-5.me/
+- http://3vdo.jjnnnh.website/
+- https://serv00.jjnnnh.website/
+- https://ipv6.jjnnnh.website/world.execute(me);/
 ## How to run locally?
 - Clone/Download the repository.
 - Open index.html in browser
