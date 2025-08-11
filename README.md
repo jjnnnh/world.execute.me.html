@@ -6,6 +6,10 @@ https://world.execute.umstudio.top/
 - http://3vdo.jjnnnh.website/
 - https://serv00.jjnnnh.website/
 - https://ipv6.jjnnnh.website/world.execute(me);/
+### [bilibili video](https://www.bilibili.com/video/BV1kXb9zmE1t) Comment Section Mirror:
+- https://world.execute.33550337.xyz/
+- https://world.execute.rpixel.world/
+- https://classy-lily-32904e.netlify.app/ (Chinese)
 ## How to run locally?
 - Clone/Download the repository.
 - Open index.html in browser
