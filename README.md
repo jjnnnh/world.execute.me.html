@@ -3,6 +3,7 @@
 https://world.execute.umstudio.top/
 ### jjnnnh Mirror:
 - https://world-execute.html-5.me/
+- https://world-execute.zke.me/
 - https://ipv6.jjnnnh.website/world.execute(me);/
 - https://serv00.jjnnnh.website/
 - http://3vdo.jjnnnh.website/ (Offline Version)
