@@ -6,7 +6,7 @@ https://world.execute.umstudio.top/
 - https://world-execute.zke.me/
 - https://ipv6.jjnnnh.website/world.execute(me);/
 - https://serv00.jjnnnh.website/
-- http://3vdo.jjnnnh.website/ ([Offline Version](releases/tag/Offline))
+- http://3vdo.jjnnnh.website/ ([Offline Version](https://github.com/jjnnnh/world.execute.me.html/releases/tag/Offline))
 ### [bilibili video](https://www.bilibili.com/video/BV1kXb9zmE1t) Comment Section Mirror:
 - https://world.execute.33550337.xyz/
 - https://world.execute.rpixel.world/
